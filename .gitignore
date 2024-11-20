@@ -1,0 +1,36 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+
+# Build directories
+/Build/
+/Builds/
+
+# User-specific files
+/UserSettings/
+
+# Crash Reports
+/CrashReports/
+
+# Auto-generated Jetbrains Rider plugin
+.idea/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Other files
+*.swp
+*.lock
